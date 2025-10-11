@@ -1,8 +1,0 @@
-tensorflow>=2.10
-transformers
-kaggle
-scikit-learn
-pandas
-numpy
-matplotlib
-seaborn
